@@ -27,7 +27,7 @@ function TweetBox() {
   return (
     <div className='p-3 flex border-b'>
         <div className='mr-2'>
-            <img src="/img/ProfilePhoto.png" alt="Profile Photo" className='w-10 h-10 rounded-full'/>
+            <img src="/img/ProfilePhoto.jpg" alt="Profile Photo" className='w-10 h-10 rounded-full'/>
         </div>
         <div className='w-full'>
             <div className='mb-2'>
