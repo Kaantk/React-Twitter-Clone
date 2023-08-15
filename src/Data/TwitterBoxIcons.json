@@ -1,0 +1,26 @@
+[
+    {
+        "icon" : "/Icons/OtherIcons/Photo.svg",
+        "name" : "Photo"
+    },
+    {
+        "icon" : "/Icons/OtherIcons/Gif.svg",
+        "name" : "Gif"
+    },
+    {
+        "icon" : "/Icons/OtherIcons/List.svg",
+        "name" : "List"
+    },
+    {
+        "icon" : "/Icons/OtherIcons/Happy.svg",
+        "name" : "Happy"
+    },
+    {
+        "icon" : "/Icons/OtherIcons/Date.svg",
+        "name" : "Date"
+    },
+    {
+        "icon" : "/Icons/OtherIcons/Location.svg",
+        "name" : "Location"
+    }
+]

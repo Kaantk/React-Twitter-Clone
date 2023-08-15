@@ -1,0 +1,42 @@
+[
+    {
+      "icon" : "/Icons/Home.svg",
+      "name" : "Home"
+    },
+    {
+      "icon" : "/Icons/Search.svg",
+      "name" : "Explore"
+    },
+    {
+      "icon" : "/Icons/Notifications.svg",
+      "name" : "Notifications"
+    },
+    {
+      "icon" : "/Icons/Messages.svg",
+      "name" : "Messages"
+    },
+    {
+      "icon" : "/Icons/Lists.svg",
+      "name" : "Lists"
+    },
+    {
+      "icon" : "/Icons/BookMarks.svg",
+      "name" : "Bookmarks"
+    },
+    {
+      "icon" : "/Icons/Communities.svg",
+      "name" : "Communities"
+    },
+    {
+      "icon" : "/Icons/Verified.svg",
+      "name" : "Verified"
+    },
+    {
+      "icon" : "/Icons/Profile.svg",
+      "name" : "Profile"
+    },
+    {
+      "icon" : "/Icons/More.svg",
+      "name" : "More"
+    }
+]
